@@ -1,6 +1,6 @@
-# Olá! Eu sou a Andressa Maria!
-## Atualmente estudo Front-End.
-## Adquirindo conhecimento em Javascript, HTML, CSS,e NodeJS.
+### Olá! Eu sou a Andressa Maria!
+Atualmente estudo Front-End.
+Adquirindo conhecimento em Javascript, HTML, CSS,e NodeJS.
 
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/f25e09addf4423ec4d3ab376f2547aa4.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
 </div>
   
   
