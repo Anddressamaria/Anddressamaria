@@ -1,6 +1,10 @@
 ### Olá! Eu sou a Andressa Maria!
-Atualmente estudo Front-End.
-Adquirindo conhecimento em Javascript, HTML, CSS,e React.
+Atualmente estudo Python, Selenium, Jupyter e SQL. ツ 
+
+Também possuo conhecimento em Java Script (CSS e HTML).
+
+Excel intermediário.
+
 
 
 <div align="center">
