@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Andressa Maria!
-Atualmente estudo Python, Selenium, Jupyter e SQL. ツ 
+
+Estudante de UI / UX Design
+Possuo conhecimento em Python, Selenium e Jupyter. ツ 
 
 Também possuo conhecimento em Java Script (CSS e HTML).
 
