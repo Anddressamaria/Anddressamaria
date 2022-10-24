@@ -1,13 +1,28 @@
-### Olá! Eu sou a Andressa Maria!
+### Olá!
 
-Estudante de UI / UX Design
+Me chamo Andressa, tenho 22 anos. Fazia faculdade de Biotecnologia (bacharelado), porém em 2020 me interessei muito pela área de UX/UI e, com isso, eu decidi trancar e seguir nesta área. 
 
-Possuo conhecimento em Python, Selenium e Jupyter. ツ 
+Atualmente estudo UI e UX Design.
 
-Também possuo conhecimento em Java Script (CSS e HTML).
+Também possuo conhecimento em Java Script (CSS e HTML) VSCode e automação em Python com Selenium (Jupyter Notebook) .
 
+◉ Inglês Intermediário.
+
+
+Photoshop avançado.
+Word Avançado.
 Excel intermediário.
+Powerpoint Intermediário.
 
+
+Atualmente trabalho como Freelancer e sou Autodidata.
+
+Contatos:
+ 
+📨 andressa.maria6298@gmail.com
+📱+21973507841
+📋https://github.com/Anddressamaria
+Inglês Intermediário.
 
 
 <div align="center">
